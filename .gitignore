@@ -1,0 +1,4 @@
+.env
+__pycache__/
+mock_s3_bucket/
+downloaded_raw_travel_bookings.csv

@@ -1,0 +1,14 @@
+# Data Generation & Manipulation
+faker
+pandas
+numpy
+
+# AWS Integration
+boto3
+
+# Database Connectivity
+sqlalchemy
+psycopg2-binary
+
+# Environment & Utilities
+python-dotenv
